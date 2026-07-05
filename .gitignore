@@ -1,0 +1,3 @@
+vendor/
+includes/db_config.php
+*.log
