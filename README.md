@@ -5,7 +5,7 @@ A full-featured university management portal built with PHP & MySQL, supporting 
 > "Learning for Service" — built for Ave Maria University, Piyanko
 
 ## Live Demo
-avemariaschoolportal.site.je
+[avemariaschoolportal.site.je](https://avemariaschoolportal.site.je)
 
 ## Features
 
